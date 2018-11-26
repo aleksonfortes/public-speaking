@@ -41,7 +41,7 @@ The events are organized in reverse chronological order.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
-| [Open Poa Toastmasters](http://openpoatoastmasters.tk) | President of Open Poa Toastmasters Club | :brazil: |
+| [Open Poa Toastmasters](http://openpoatoastmasters.tk) | Communication and Leadership | :brazil: |
 
 
 ## Template Credits: 
