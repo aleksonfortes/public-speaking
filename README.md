@@ -18,7 +18,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
-| 10/11/2017 | [GUTS-RS - QA Challenges for Testing Automation] | [Service Virtualization with CA Lisa](http://www.sucesurs.org.br/evento/guts-rs-novembro-gutstalks/) |  | :brazil: |
+| 10/11/2018 | [GUTS-RS - QA Challenges for Testing Automation] | [Service Virtualization with CA Lisa](http://www.sucesurs.org.br/evento/guts-rs-novembro-gutstalks/) |  | :brazil: |
 | 30/05/2017 | [GUTS-RS - SOFT SKILLS] | [NLP for testing communication](https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-soft-skills) |  | :brazil: |
 
 
