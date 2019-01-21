@@ -17,7 +17,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
-| 07/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Agilizando o ciclo de desenvolvimento da sua equipe com a virtualização de serviços.(https://www.s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2018POA/devtest/LBA-3596_2018-12-07T100133_TDCPOA2018-Virtualiza%C3%A7%C3%A3oServi%C3%A7os-semvideo.pdf) |  | :brazil: | 
+| 07/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Agilizando o ciclo de desenvolvimento da sua equipe com a virtualização de serviços.(https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-soft-skills) |  | :brazil: | 
 | 05/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Soft Skills Para Profissionais de Testes. |  | :brazil: | 
 | 10/11/2018 | [GUTS-RS - QA Challenges for Testing Automation](http://www.sucesurs.org.br/evento/guts-rs-novembro-gutstalks/) | [Service Virtualization with CA Lisa] |  | :brazil: |
 | 30/05/2017 | [GUTS-RS - SOFT SKILLS] | [NLP for testing communication](https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-soft-skills) |  | :brazil: |
