@@ -18,6 +18,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 07/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Agilizando o ciclo de desenvolvimento da sua equipe com a virtualização de serviços. |  | :brazil: | 
 | 05/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Soft Skills Para Profissionais de Testes. |  | :brazil: | 
 | 10/11/2018 | [GUTS-RS - QA Challenges for Testing Automation] | [Service Virtualization with CA Lisa]
 (http://www.sucesurs.org.br/evento/guts-rs-novembro-gutstalks/) |  | :brazil: |
