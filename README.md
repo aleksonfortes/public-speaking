@@ -11,7 +11,6 @@ The events are organized in reverse chronological order.
 [![logo](https://i.imgur.com/Rb8i3ps.png)](http://www.twitter.com/alekson)
 
 
-
 ---
 
 ## Talks
